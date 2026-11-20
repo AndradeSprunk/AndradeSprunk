@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./yuno-banner.png" width="100%" alt="Banner da Yuno Gasai em tons de rosa e preto" />
+<img src="./yuno-banner-mono.png" width="100%" alt="Banner da Yuno Gasai em preto e cinza" />
 
 # Andrade
 
