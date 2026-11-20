@@ -12,12 +12,6 @@
 
 <br />
 
-### whoami
-
-Sou Andrade. Curto Linux, personalizar meu setup e mexer com servidores de Minecraft. Por aqui compartilho projetos, configurações e o que vou criando com **Java** e **JavaScript**.
-
-<br />
-
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyprland/hyprland-original.svg" width="42" height="42" alt="Hyprland" />&nbsp;&nbsp;&nbsp;
